@@ -48,4 +48,5 @@
     "background_color": "#ffffff", 
     "start_url": "/", 
     "display": "standalone"
+    
 }
